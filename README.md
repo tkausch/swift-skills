@@ -2,6 +2,10 @@
 
 An iOS app (SwiftUI, iOS 17+) that helps you pick coping skills matched to your current inner tension. Set a tension level from 0 to 10 and the app suggests suitable skills for that zone. The UI is in German.
 
+<p align="center">
+  <img src="docs/screenshot.png" alt="Skills app screenshot" width="300">
+</p>
+
 ## Features
 
 - **Tension slider** with four zones: Ruhig (0–3), Erhöht (4–6), Hoch (7–8) and Krise (9–10)
